@@ -1,0 +1,14 @@
+====== What's left - GUI ======
+
+--- Analysis mode vs Game mode
+= In analysis mode, you can move in the previous positions and alter
+  the course of the game.
+
+= In game mode, you can only look at previous positions without moving in them
+
+
+--- PGN Functionality
+
+--- UCI connection to chess engine
+
+--- Draw detection
